@@ -6,4 +6,3 @@ while respuesta == "S":
     tiempo_dias = tiempo_horas // 24
     print(f"Tardarías {tiempo_dias} días en llegar.")
     respuesta= input("quieres hacer otra simulación? (s/n):").lower()
-

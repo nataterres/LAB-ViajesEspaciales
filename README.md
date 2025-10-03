@@ -69,7 +69,7 @@ tiempo_dias = tiempo_horas // 24
 ¿Qué ha ocurrido? Prueba también a cambiar esta línea:
 
 ```python
-tiempo_horas = distancia_km / velocidad_kmh
+tiempo_horas = distancia_km / velocidad_kmhhttps://github.com/FP-25-26/LAB-Piedra-Papel-Tijeras/blob/main/README.md
 ```
 
 por esta otra:
